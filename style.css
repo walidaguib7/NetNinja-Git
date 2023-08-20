@@ -2,28 +2,11 @@
     margin: 0;   
 }
 
-:root{
-    --primary : aqua ;
-}
-
 span{
     display: inline;
     width: 300px;
     height: 100px;
     
-    background-color: var(--primary);
+    background-color: blueviolet;
     caret-color: aqua;
-}
-
-
-.Box{
-    width: 300px;
-    background-color: #c5c1c1;
-    margin: 20px auto;
-    height: 100px;
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-    color: white;
-    box-shadow: 10px 10px 26px -5px black ;
 }
