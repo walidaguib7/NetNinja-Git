@@ -1,7 +1,7 @@
 // let id = setTimeout(Hello, 10000,"walid");
 
 // function Hello(name) {
-//     console.log(`Hello ${name}`);
+//    dd console.log(`Hello ${name}`);
 // }
 
 
